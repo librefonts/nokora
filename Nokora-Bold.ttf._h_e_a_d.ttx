@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.30000305176"/>
+    <checkSumAdjustment value="0x34822e1a"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00011111"/>
+    <unitsPerEm value="2048"/>
+    <created value="Mon May 17 18:56:38 2010"/>
+    <modified value="Fri Oct 12 19:52:42 2012"/>
+    <xMin value="-2388"/>
+    <yMin value="-800"/>
+    <xMax value="4150"/>
+    <yMax value="1908"/>
+    <macStyle value="00000000 00000001"/>
+    <lowestRecPPEM value="8"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+</ttFont>
