@@ -1,0 +1,66 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Nokora
+    Sub family: Nokora Regular
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Digitized data copyright © 2007, Google Corporation. Copyright (c) 2012, Danh Hong (khmertype.blogspot.com)
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.3 October 14, 2012
+    Vendor: Danh Hong
+    Vendor url: http://khmertype.blogspot.com/
+    Designer url: http://khmertype.blogspot.com/
+    Glyph count: 224
+    Character count: 141
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 18
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Nokora
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Digitized data copyright © 2007, Google Corporation. Copyright (c) 2012, Danh Hong (khmertype.blogspot.com)
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.3 October 14, 2012
+    Vendor: Danh Hong
+    Vendor url: http://khmertype.blogspot.com/
+    Designer url: http://khmertype.blogspot.com/
+    Glyph count: 224
+    Character count: 141
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 18
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
